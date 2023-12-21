@@ -1,0 +1,35 @@
+1. Image Name: JRiz.jpg
+2. Drawing Duration: 5 milliseconds
+3. Date Drawn: 2023-12-21 16:08:28
+
+Image!<html><center><b>JRiz.jpg</b></center><br><b>Information</b><br>Delay- 5<br><b>Actual Size</b><br>Width - 188<br>Height - 268</html>
+1. Image Name: 362947615_3766893980204969_8993260513079612503_n.jpg
+2. Drawing Duration: 5 milliseconds
+3. Date Drawn: 2023-12-21 16:11:10
+
+Image!<html><center><b>362947615_3766893980204969_8993260513079612503_n.jpg</b></center><br><b>Information</b><br>Delay- 5<br><b>Actual Size</b><br>Width - 2048<br>Height - 2048</html>
+1. Image Name: 362947615_3766893980204969_8993260513079612503_n.jpg
+2. Drawing Duration: 5 milliseconds
+3. Date Drawn: 2023-12-21 16:17:57
+
+Image!<html><center><b>362947615_3766893980204969_8993260513079612503_n.jpg</b></center><br><b>Information</b><br>Delay- 5<br><b>Actual Size</b><br>Width - 2048<br>Height - 2048</html>
+1. Image Name: 362947615_3766893980204969_8993260513079612503_n.jpg
+2. Drawing Duration: 1 milliseconds
+3. Date Drawn: 2023-12-21 16:18:59
+
+Image!<html><center><b>362947615_3766893980204969_8993260513079612503_n.jpg</b></center><br><b>Information</b><br>Delay- 1<br><b>Actual Size</b><br>Width - 2048<br>Height - 2048</html>
+1. Image Name: 362947615_3766893980204969_8993260513079612503_n.jpg
+2. Drawing Duration: 1 milliseconds
+3. Date Drawn: 2023-12-21 16:20:16
+
+Image!<html><center><b>362947615_3766893980204969_8993260513079612503_n.jpg</b></center><br><b>Information</b><br>Delay- 1<br><b>Actual Size</b><br>Width - 2048<br>Height - 2048</html>
+1. Image Name: 362947615_3766893980204969_8993260513079612503_n.jpg
+2. Drawing Duration: 1 milliseconds
+3. Date Drawn: 2023-12-21 16:21:31
+
+Image!<html><center><b>362947615_3766893980204969_8993260513079612503_n.jpg</b></center><br><b>Information</b><br>Delay- 1<br><b>Actual Size</b><br>Width - 2048<br>Height - 2048</html>
+1. Image Name: 362947615_3766893980204969_8993260513079612503_n.jpg
+2. Drawing Duration: 5 milliseconds
+3. Date Drawn: 2023-12-21 16:23:28
+
+Image!<html><center><b>362947615_3766893980204969_8993260513079612503_n.jpg</b></center><br><b>Information</b><br>Delay- 5<br><b>Actual Size</b><br>Width - 2048<br>Height - 2048</html>
